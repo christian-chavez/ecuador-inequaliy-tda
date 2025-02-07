@@ -21,7 +21,7 @@ The dataset includes socio-economic indicators of Ecuador, taken from the ENEMDU
 
 ## Usage
 
-The analysis was used using the following python libraries:
+The analysis was carried out using the following python libraries:
 - Gudhi
 - BioPython
 
